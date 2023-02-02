@@ -13,7 +13,7 @@ RAMSES", focused on developing RAMSES, a Reusable Autonomic Manager for microSrv
 
 **Erasmus+ Exchange Program** – KTH Institute of Technology (Stockholm, Sweden)
 * Focus on advanced Distributed Systems, Machine Learning and Artificial Intelligence
-* Six-month project work on coordination and collaboration of ai-driven agents in multiagent systems. Relevant technologies used: C#, Unity
+* Six-month project work on coordination and collaboration of ai-driven agents in multiagent systems.
 
 **Cyber Security Academy** – Politecnico di Milano (Milan, Italy)
 * Seminars and technical challenges focused on ethical hacking and penetration testing
